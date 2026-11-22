@@ -39,5 +39,3 @@ Make item, payment method and location compulsory at the till. Two in five sales
 Sell coffee with higher-value items. Coffee already draws the most purchases. A coffee-and-sandwich or coffee-and-salad meal deal would raise the value of each sale.
 Promote the top earners and review the cheapest items. Feature salads, sandwiches and smoothies prominently. Consider selling cookies and tea as add-ons rather than on their own.
 
-One-line summary: Salads, sandwiches and smoothies earn half the revenue, but 40% of sales have no recorded location, so better record-keeping is the café's first fix.
-
